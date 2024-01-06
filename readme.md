@@ -1,9 +1,14 @@
 # rgfc
 
+> A react CLI for generating components
+
 ## Install
 
 ```bash
 $ npm install --global rgfc
+# OR
+$ yarn add --global rgfc
+
 ```
 
 ## CLI
